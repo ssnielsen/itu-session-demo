@@ -3,7 +3,7 @@ class DemoClass {
 
 	}
 
-	void methodTwo() {
-		
+	boolean methodTwo() {
+		return false;
 	}
 }
