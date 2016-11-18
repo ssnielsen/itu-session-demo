@@ -1,6 +1,6 @@
 class DemoClass {
 	int methodOne() {
-		return 42;
+		return 100000;
 	}
 
 	boolean methodTwo() {
